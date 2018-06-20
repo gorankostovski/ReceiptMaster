@@ -1,2 +1,5 @@
-# ReceiptMaster
-Software solution for managing receipts in markets.
+v0.5
+
+Во оваа верзија се додадени членови во веќе постоечките класи за нивно правилно функционирање
+
+*Прикачено од: *
