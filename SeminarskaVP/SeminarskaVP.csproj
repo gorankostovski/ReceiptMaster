@@ -46,14 +46,24 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Classes\Employee.cs" />
+    <Compile Include="Classes\Banking\Activity.cs" />
+    <Compile Include="Classes\Banking\BankAccount.cs" />
+    <Compile Include="Classes\Employees\Employee.cs" />
+    <Compile Include="Classes\Employees\Manager.cs" />
+    <Compile Include="Classes\Enterprise.cs" />
     <Compile Include="Classes\Products\LiquidProduct.cs" />
     <Compile Include="Classes\Products\MeasurableProduct.cs" />
     <Compile Include="Classes\Products\Product.cs" />
     <Compile Include="Classes\Products\QuantitativeProduct.cs" />
     <Compile Include="Classes\Products\Service.cs" />
+    <Compile Include="Classes\Products\SoldProducts\SoldMeasurableProduct.cs" />
+    <Compile Include="Classes\Products\SoldProducts\SoldProduct.cs" />
+    <Compile Include="Classes\Products\SoldProducts\SoldQuantitiveProduct.cs" />
+    <Compile Include="Classes\Products\SoldProducts\SoldService.cs" />
     <Compile Include="Classes\Products\SolidProduct.cs" />
-    <Compile Include="Classes\Seller.cs" />
+    <Compile Include="Classes\Employees\Seller.cs" />
+    <Compile Include="Classes\Receipt.cs" />
+    <Compile Include="Classes\Banking\Transaction.cs" />
     <Compile Include="Form1.cs">
       <SubType>Form</SubType>
     </Compile>
