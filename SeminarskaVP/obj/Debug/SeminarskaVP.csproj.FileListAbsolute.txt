@@ -10,3 +10,4 @@ D:\Teo's Files\Documents\Faks\Predmeti\Vizuelno Programiranje\other\Seminarska\O
 D:\Teo's Files\Documents\Faks\Predmeti\Vizuelno Programiranje\other\Seminarska\Other\15.06.2018_12h10m\SeminarskaVP\SeminarskaVP\obj\Debug\SeminarskaVP.Forms.SignInForm.resources
 D:\Teo's Files\Documents\Faks\Predmeti\Vizuelno Programiranje\other\Seminarska\Other\15.06.2018_12h10m\SeminarskaVP\SeminarskaVP\obj\Debug\SeminarskaVP.Properties.Resources.resources
 D:\Teo's Files\Documents\Faks\Predmeti\Vizuelno Programiranje\other\Seminarska\Other\15.06.2018_12h10m\SeminarskaVP\SeminarskaVP\obj\Debug\SeminarskaVP.csproj.GenerateResource.Cache
+D:\Teo's Files\Documents\Faks\Predmeti\Vizuelno Programiranje\other\Seminarska\Other\15.06.2018_12h55m\SeminarskaVP\SeminarskaVP\bin\Debug\SeminarskaVP.exe.config
