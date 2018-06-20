@@ -1,2 +1,5 @@
-# ReceiptMaster
-Software solution for managing receipts in markets.
+v0.2
+
+Во оваа верзија дополнително се додадени класите Service (изведена од Product) и Employee (која треба да биде апстрактна и да се изведат класите Seller и Manager во некоја од следните верзии)
+
+*Прикачено од: Горан Костовски 161234
