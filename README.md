@@ -1,2 +1,5 @@
-# ReceiptMaster
-Software solution for managing receipts in markets.
+v0.6
+
+Во оваа верзија се направени модификаци на класата Program, односно во оваа класа е дефиниран статички објект од класата Enterprise
+
+*Прикачено од: Горан Костовски 161234
