@@ -1,2 +1,5 @@
-# ReceiptMaster
-Software solution for managing receipts in markets.
+v0.8
+
+Дебагирање на алгоритмите во main функцијата.
+
+*Прикачено од: Горан Костовски 161234
