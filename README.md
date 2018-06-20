@@ -1,2 +1,5 @@
-# ReceiptMaster
-Software solution for managing receipts in markets.
+v0.1
+
+Покрај функционалностите од претходните верзии, во оваа верзија се додадени класите: MeasurableProduct, од која се изведени уште две класи (SolidProduct и LiquidProduct)
+
+Прикачено од: Горан Костовски 161234
