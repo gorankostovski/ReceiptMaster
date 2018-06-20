@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 
 namespace SeminarskaVP.Classes
 {
+    [Serializable]
     public class QuantitativeProduct : Product      //  produkt koj se prodava kako cel i nedelliv
     {
         public int Amount { get; set; }

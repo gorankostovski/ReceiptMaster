@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 
 namespace SeminarskaVP.Classes
 {
+    [Serializable]
     public class LiquidProduct:MeasurableProduct
     {
 

@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 
 namespace SeminarskaVP.Classes
 {
+    [Serializable]
     public class SolidProduct : MeasurableProduct       //  se merat vo KG
     {
 

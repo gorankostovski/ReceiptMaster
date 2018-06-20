@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 
 namespace SeminarskaVP.Classes
 {
+    [Serializable]
     public abstract class Product            //  bazna klasa od koja ke se izvedat uslugi, nedelivi produkti i izmereni produkti
     {
         public int Id { get; }             //  id ili bar kod na produktot
@@ -16,6 +17,10 @@ namespace SeminarskaVP.Classes
 
 
         //public abstract bool CheckPurchase(decimal amount);         //  metoda koja proveruva dali na zaliha ima dovolno za da moze da is izvrsi kupuvanjeto na toj produkt
+
+        public bool CheckId(int id) {   //  metoda koja proveruva dali se raboti za ist produkt
+            return Id == id;
+        }
 
         public Product(int id,string name,decimal price) {
             Id = id;

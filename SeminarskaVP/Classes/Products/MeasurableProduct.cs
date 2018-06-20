@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 
 namespace SeminarskaVP.Classes
 {
+    [Serializable]
     public class MeasurableProduct:Product      //  produkt koj se meri vo kologrami ili litri
     {
         public decimal Amount { get; set; }     //  kolicina vo kilogrami/litri

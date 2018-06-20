@@ -7,11 +7,7 @@ using System.Threading.Tasks;
 namespace SeminarskaVP.Classes
 {
     [Serializable]
-    public class Service : Product      //  uslugi (nemaat kolicina)
+    public class Seller
     {
-
-        public Service(int id,string name,decimal price):base(id,name,price) {
-
-        }
     }
 }
